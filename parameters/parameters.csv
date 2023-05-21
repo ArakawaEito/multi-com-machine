@@ -1,0 +1,3 @@
+﻿Cofficient,Cofficient2,RepNumMax,MachineNumMax,CrossValNum
+1,0.1,10000,7,3
+重み変化係数(一般),重み変化係数(絶対値が最小の時),反復学習最大回数,線形機械の最大個数　,クロスバリデーションの分割数
